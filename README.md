@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://cdn.discordapp.com/emojis/787283025679089714.gif?v=1" width="28px" alt="hi">, I'm Rei</h1>
 
-<h3 align="center">I will be the weirdest guy you have ever seen in your life, I love playing instrument called bass, i'm a JavaScript and Java Coder.. i love to code discord bot ( Discord.js ) and make a minecraft plugin ( Spigot ) also im a discord moderator on Davie504's Discord ( https://discord.com/invite/davie504 ) which is pretty epic lol.</h3>
+<h3 align="center">I will be the weirdest guy you have ever seen in your life, I love playing instrument called bass, i'm a JavaScript and Java Coder.. i love to code discord bot using discord.js and make a minecraft plugin using spigot or bukkit also im a discord moderator on Davie504's Discord ( https://discord.com/invite/davie504 ) which is pretty epic lol.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
