@@ -16,7 +16,7 @@
 <img align="left" alt="py" width="40px" src="https://i.imgur.com/4pIzF9V.png" />
 <img align="left" alt="node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> 
 
-<h3 align="left"></h3>
+<p align="left">
 <img src="https://cdn.discordapp.com/emojis/795561522234916894.png?v=1" width="28px" alt="blank">
 
 ![maybeurmom](https://user-images.githubusercontent.com/74547779/121762108-0cf9e480-cb5e-11eb-967a-8f1a78d766e2.jpg)
