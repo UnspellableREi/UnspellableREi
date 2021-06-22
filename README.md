@@ -13,7 +13,6 @@
 <img align="left" alt="Eclipse IDE" width="40px" src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200" />
 <img align="left" alt="discord.js" width="40px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="40px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="py" width="40px" src="https://i.imgur.com/4pIzF9V.png" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node.js" width="40px" />
 <img align="left" src="http://i.imgur.com/igYbvzR.png" alt="bukkit" width="40px" />
 <img src="https://i.imgur.com/xsD09gE.png" alt="spigot" width="40px" />
