@@ -10,6 +10,7 @@
 <img align="left" alt="Jenkins" width="40px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
 <img align="left" alt="java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://i.imgur.com/LwSdAlE.png" />
+<img align="left" alt="Eclipse IDE" width="40px" src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200" />
 <img align="left" alt="discord.js" width="40px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="40px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="py" width="40px" src="https://i.imgur.com/4pIzF9V.png" />
