@@ -6,6 +6,8 @@
 <a href="https://discord.com/users/669702508804833291" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" width="40px" /></a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" alt="Jenkins" width="40px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
 <img align="left" alt="java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
@@ -21,3 +23,5 @@
 ---
 
 ![maybeurmom](https://user-images.githubusercontent.com/74547779/121762108-0cf9e480-cb5e-11eb-967a-8f1a78d766e2.jpg)
+
+---
