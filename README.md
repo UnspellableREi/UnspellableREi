@@ -1,2 +1,2 @@
-# Check out this dog.
+Check out this dog.
 ![dog](dog.png)
